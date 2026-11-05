@@ -46,7 +46,7 @@
 - [VGG Image Annotator (VIA)](https://www.robots.ox.ac.uk/~vgg/software/via/) - A lightweight tool for manual image annotation.
 - [DeepFaceLab](https://github.com/iperov/DeepFaceLab) - A tool for creating deepfakes using face swapping.
 - [ImageAI](https://github.com/OlafenwaMoses/ImageAI) - A Python library built to empower developers to build applications using deep learning for computer vision.
-
+* [Guardian Eye](https://github.com/YOUR_USERNAME/Guardian-Eye) - Open-source Arabic-first shoplifting detection system using YOLOv8 and Qwen for real-time retail security on a single device.
 ## Object Detection
 
 - [Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks (2015)](https://arxiv.org/abs/1506.01497) - The paper introducing Faster R-CNN for object detection.
